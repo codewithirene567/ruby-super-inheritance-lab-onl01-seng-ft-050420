@@ -1,4 +1,4 @@
-class ChattyStudent > Student
+class Chattystudent > Student
   def hello
    super
    @hello = true
